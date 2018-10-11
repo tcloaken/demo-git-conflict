@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "794a06d2b75c2135030c656cf774ea58fc6dfec247fef21b65a32a98af4f7587"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "uobioinfo": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
